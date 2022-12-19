@@ -1,4 +1,4 @@
-# quantas-letras-tem-seu-nome
+# QUAL-E-O-SEU-NOME?
 
 site com intuito de praticar o js juntamente com css e html que irá nos mostrar a quantidade de letras de um nome inserido pelo usuário.
 Foram usados nesse site simples:
